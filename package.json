@@ -1,7 +1,7 @@
 {
-  "name": "grunt.dev",
+  "name": "nhainam/grunt",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic using grunt to minimize Javascript and CSS",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
